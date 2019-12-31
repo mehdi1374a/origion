@@ -3,5 +3,13 @@ tmehdu
 \\my name is mehdi 
 i use gitahead 
 hear is gitahead
+<<<<<<< HEAD
 add this changes  if i say
-i=[r,t,y,u]
+i=[r,t]
+=======
+i use gitahead 
+hear is gitahead
+ppp
+ii
+this is my file
+>>>>>>> master
