@@ -4,3 +4,4 @@ tmehdu
 i use gitahead 
 hear is gitahead
 add this changes  if i say
+i=[r,t,y,u]
