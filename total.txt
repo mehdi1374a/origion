@@ -3,10 +3,38 @@ tmehdu
 \\my name is mehdi 
 i use gitahead 
 hear is gitahead
+<<<<<<< HEAD
+add this changes  if i say
+i=[r,t]
+=======
 i use gitahead 
 hear is gitahead
 ppp
 ii
 this is my file
+<<<<<<< HEAD
 j=[]
 uu==uu
+=======
+>>>>>>> master
+>>>>>>> change
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Files with Unix line endings
+*.c   text eol=lf
+*.cpp text eol=lf
+*.h   text eol=lf
+*.ino text eol=lf
+*.py  text eol=lf
+*.sh  text eol=lf
+*.scad text eol=lf
+
+# Files with native line endings
+# *.sln text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.fon binary
+
