@@ -37,4 +37,5 @@ uu==uu
 *.png binary
 *.jpg binary
 *.fon binary
-
+y=123456
+u=tyu
